@@ -1,5 +1,5 @@
 # fly.toml file generated for django-fly-daniel on 2022-12-20T12:36:15-03:00
-#
+
 app = "django-fly-daniel"
 kill_signal = "SIGINT"
 kill_timeout = 5
